@@ -1,5 +1,5 @@
 # OSRS-Java-Highscore-Data-Pull
-# A very brute force implementation of OSRS data pulling methods. Please credit use of this class in your code if you decide to use it.
+# A very brute force implementation of Old School Runescape Highscore data pulling methods. Please credit use of this class in your code if you decide to use it.
 
 //Note: This class does not come with getters for skill rank. The rank is pulled in position 0 of the vector's rows.
 //feel free to implement it.
