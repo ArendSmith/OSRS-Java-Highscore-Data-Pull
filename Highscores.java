@@ -55,7 +55,7 @@ public class Highscores
         int lvl;
 
         String formatted = "";
-        String[] get = (String[])temp.get(7);
+        String[] get = (String[])temp.get(6);
 
         lvl = Integer.parseInt(get[1]);
 
@@ -68,7 +68,7 @@ public class Highscores
         int xp;
 
         String formatted = "";
-        String[] get = (String[])temp.get(7);
+        String[] get = (String[])temp.get(6);
 
         xp = Integer.parseInt(get[2]);
 
